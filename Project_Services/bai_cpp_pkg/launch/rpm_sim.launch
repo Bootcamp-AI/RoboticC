@@ -1,0 +1,3 @@
+<launch>
+  <node name="rpm_pub_node" pkg="bai_cpp_pkg" type="rpm_pub" />
+</launch>
